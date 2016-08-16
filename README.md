@@ -13,6 +13,7 @@ github搜索: [https://github.com/search](https://github.com/search)
   - [Menu](#Menu)
   - [AlertView](#AlertView)
   - [UICollectionView](#UICollectionView)
+  - [UITableView](#UITableView)
   - [AutoLayout](#AutoLayout)
 - [动画](#动画)
 - [网络](#网络)
@@ -51,6 +52,10 @@ github搜索: [https://github.com/search](https://github.com/search)
 
 * [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) - 滑动时会放大/缩小视图的 UICollectionView  很漂亮.
 
+#### <a id="UITableView"></a> UITableView
+
+* [ViewDeck](https://github.com/ViewDeck/ViewDeck) - 带有分层和弹跳效果的tableview
+
 #### <a id="AutoLayout"></a> AutoLayout
 
 * [MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) - 代码实现自动布局的库
@@ -64,6 +69,7 @@ github搜索: [https://github.com/search](https://github.com/search)
 ### <a id="网络"></a> 网络
 
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - 使用人数最多的网络请求库
+* [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) - socket很经典的库
 
 ### <a id="音视频"></a> 音视频
 
@@ -91,3 +97,5 @@ github搜索: [https://github.com/search](https://github.com/search)
 
 * [xcode-themes](https://github.com/tursunovic/xcode-themes) - Xcode主题 [另一个主题集合](https://github.com/hdoria/xcode-themes)
 * [Lin](https://github.com/questbeat/Lin) - 国际化 `NSLocalizedString` 中字符串自动查询插件
+* [XAlign](https://github.com/qfish/XAlign) - 代码自动对齐插件
+* [KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode) - 代码中自动弹出图片预览窗口的插件 很好用!
