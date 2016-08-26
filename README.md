@@ -160,3 +160,4 @@ github搜索: [https://github.com/search](https://github.com/search)
 ### <a id="Demo"></a> Demo
 
 * [MMGooglePlayNewsStand](https://github.com/mukyasa/MMGooglePlayNewsStand) - 一个类似 Google Play News 的示例demo
+* [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - 一套很漂亮的界面示例 -- (Swift)
